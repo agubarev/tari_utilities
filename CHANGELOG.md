@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.10](https://github.com/tari-project/tari_utilities/compare/v0.4.9...v0.4.10) (2022-11-23)
+
+
+### Features
+
+* add borsh ([#53](https://github.com/tari-project/tari_utilities/issues/53)) ([469be24](https://github.com/tari-project/tari_utilities/commit/469be240ed6561007a0191633f6521dd42cfde9c))
+
+### [0.4.9](https://github.com/tari-project/tari_utilities/compare/v0.4.8...v0.4.9) (2022-11-18)
+
+
+### Features
+
+* improve hidden data handling ([#52](https://github.com/tari-project/tari_utilities/issues/52)) ([f35006f](https://github.com/tari-project/tari_utilities/commit/f35006f7179533b7ac3a7a9ee1d6932475b95cec))
+
+### [0.4.8](https://github.com/tari-project/tari_utilities/compare/v0.4.7...v0.4.8) (2022-10-05)
+
+
+### Features
+
+* add reveal method to Hidden ([#49](https://github.com/tari-project/tari_utilities/issues/49)) ([ee84d4f](https://github.com/tari-project/tari_utilities/commit/ee84d4fd9faa0ca21c9ec5e059612fc7aa106059))
+
+### [0.4.7](https://github.com/tari-project/tari_utilities/compare/v0.4.6...v0.4.7) (2022-10-03)
+
+### [0.4.6](https://github.com/tari-project/tari_utilities/compare/v0.4.5...v0.4.6) (2022-08-29)
+
+
+### Bug Fixes
+
+* a slightly changed signature of `impl From<String> for SafePassword` to be a bit more generic ([#47](https://github.com/tari-project/tari_utilities/issues/47)) ([3fba4df](https://github.com/tari-project/tari_utilities/commit/3fba4dfd441bd3df42b2fdb0e9e1db04daab6441))
+
 ### [0.4.5](https://github.com/tari-project/tari_utilities/compare/v0.4.4...v0.4.5) (2022-07-26)
 
 
